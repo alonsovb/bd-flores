@@ -1,0 +1,2 @@
+- Documentar interno
+- Documentación externa
